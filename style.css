@@ -16,3 +16,9 @@ h1{
 .half-width img{
     width: 70%;
 }
+section{
+    height: 500px;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+}
